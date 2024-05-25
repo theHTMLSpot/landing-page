@@ -1,10 +1,11 @@
+import { React} from 'react';
 
 function Image()
 {
     return(
         <div id='background'>
             <div id='text-container' >
-                <h1>Where your dreams become a reality</h1>
+                <h1>Where your dreams becomes a reality</h1>
 
                 
                 <p>
@@ -14,7 +15,13 @@ function Image()
                 <button>
                     Contact us
                 </button>
+
+                <p id='at'>
+                image from <a href='https://www.freepik.com/'> freepik </a>.
+            </p>
             </div>
+
+            
         </div>
     );
 }
