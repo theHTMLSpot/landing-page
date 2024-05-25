@@ -1,8 +1,9 @@
+import Images from '../components/images'
 
 function LandingPage()
 {
     return(
-        <h1>LandingPage</h1>
+        <Images />
     );
 }
 
