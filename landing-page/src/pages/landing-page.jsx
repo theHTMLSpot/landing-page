@@ -1,5 +1,6 @@
 import Images from '../components/images';
-
+import Promises from '../components/promises';
+import Proccess from '../components/process';
 
 function LandingPage()
 {
@@ -7,6 +8,9 @@ function LandingPage()
         <>
             <Images />
 
+            <Promises  />
+
+            <Proccess  />
         </>
     );
 }

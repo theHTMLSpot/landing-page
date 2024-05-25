@@ -3,6 +3,7 @@
   background-color: #D9D9D9;
   min-height: 300vh;
   display: flex;
+  flex-direction: column;
   font-size: calc(10px + 2vmin);
   color: white;
 }
@@ -47,4 +48,84 @@
 #at{
   font-size: 1rem !important;
   margin-top: 20vh;
+}
+#promise-body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20vh;
+  width: 100vw;
+  height: 50vh;
+}
+.promise-element
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 33.33vw;
+  height: 30vh;
+
+}
+.promise-element h3{
+  color: #186C58;
+}
+.svg
+{
+  scale: 3;
+  margin-top: 10px;
+}
+#process-body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 80vw;
+  height: 50vh;
+}
+.process-element
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 27vw;
+  height: 50vh;
+
+}
+.process-element h3{
+  color: #186C58;
+}
+.line
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  height: 5px;
+  background-color: #186C58;
+}
+
+.big-circle
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  background-color: #186C58;
+}
+.small-circle
+{
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  background-color: #D9D9D9;
 }
