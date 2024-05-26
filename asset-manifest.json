@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/landing-page/static/css/main.d32dde13.css",
+    "main.js": "/landing-page/static/js/main.3194f8d2.js",
+    "static/js/453.7ee4257d.chunk.js": "/landing-page/static/js/453.7ee4257d.chunk.js",
+    "static/media/architects-studying-plan-with-mockup.jpg": "/landing-page/static/media/architects-studying-plan-with-mockup.2eb431f241dddc1be088.jpg",
+    "static/media/groups_24dp_FILL0_wght400_GRAD0_opsz24.svg": "/landing-page/static/media/groups_24dp_FILL0_wght400_GRAD0_opsz24.5176bf0288b7496c87e5770f95a461e1.svg",
+    "index.html": "/landing-page/index.html",
+    "static/media/recycling_24dp_FILL0_wght400_GRAD0_opsz24.svg": "/landing-page/static/media/recycling_24dp_FILL0_wght400_GRAD0_opsz24.6264a28352f315e3c5efb8f58d321981.svg",
+    "static/media/design_services_24dp_FILL0_wght400_GRAD0_opsz24 2.svg": "/landing-page/static/media/design_services_24dp_FILL0_wght400_GRAD0_opsz24 2.1472ce9de5bda2dec5ed97e0da9fa988.svg",
+    "static/media/architecture_24dp_FILL0_wght400_GRAD0_opsz24.svg": "/landing-page/static/media/architecture_24dp_FILL0_wght400_GRAD0_opsz24.9832cde76dd08d49bfde194f1b39e4d0.svg",
+    "static/media/fact_check_24dp_FILL0_wght400_GRAD0_opsz24.svg": "/landing-page/static/media/fact_check_24dp_FILL0_wght400_GRAD0_opsz24.5568b8ab9a0fd3ae1beba2055737290f.svg",
+    "static/media/meeting_room_24dp_FILL0_wght400_GRAD0_opsz24.svg": "/landing-page/static/media/meeting_room_24dp_FILL0_wght400_GRAD0_opsz24.c2ca0edba47b3333d96563285af29839.svg",
+    "main.d32dde13.css.map": "/landing-page/static/css/main.d32dde13.css.map",
+    "main.3194f8d2.js.map": "/landing-page/static/js/main.3194f8d2.js.map",
+    "453.7ee4257d.chunk.js.map": "/landing-page/static/js/453.7ee4257d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d32dde13.css",
+    "static/js/main.3194f8d2.js"
+  ]
+}
